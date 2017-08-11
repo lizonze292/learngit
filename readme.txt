@@ -1,1 +1,1 @@
-Git is a distributed con
+Git is a distributed control system.
